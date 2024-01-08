@@ -1,5 +1,5 @@
 # Il2CppFieldParser
-<h3 align="center">A tool for exporting offsets from Il2CppDumper's output</h3>
+A tool for exporting offsets from [Il2CppDumper](https://github.com/Perfare/Il2CppDumper) output
 
 This project uses:
 [dnlib]("https://github.com/0xd4d/dnlib")
